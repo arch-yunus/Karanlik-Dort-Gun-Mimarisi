@@ -37,6 +37,24 @@ $$L = \frac{v_e^2}{2a}$$
 
 ---
 
+## 🕹️ Operasyonel Senaryolar
+
+### 🔴 Senaryo A: Nominal Ay Günü (Yükleme & Depolama)
+- Güneş panelleri %100 kapasite çalışır.
+- Regolit TES blokları 1000°C'ye ısıtılır.
+- Kargo kapsülleri elektromanyetik raylara yerleştirilir ve süperkapasitörler kademeli şarj edilir.
+
+### 🌑 Senaryo B: 4 Günlük Karanlık (Hayatta Kalma)
+- AI modülü "L-MODE" (Legacy Mode) aktifleşir.
+- Endüstriyel işlemler (madencilik, arıtma) durdurulur.
+- Enerji sadece Stirling motoru üzerinden TES'ten çekilir.
+
+### ⚡ Senaryo C: Acil Durum Fırlatması (Düşük Güç)
+- Eğer ana şebeke hasar görürse, bataryadaki son enerji tek bir "Mass Driver Pulse" için optimize edilir.
+- Kargo emniyeti yerine "yörüngeye ulaşma" önceliği alınır.
+
+---
+
 ## 📂 Uygulama Modülleri (Source Modules)
 
 ### `mikrokarar_ai/grid_manager.py`
