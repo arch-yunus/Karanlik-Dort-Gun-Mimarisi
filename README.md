@@ -1,5 +1,7 @@
 # 🌑 Karanlik-Dort-Gun-Mimarisi: Ay Güney Kutbu Mikroşebeke ve Kütle Fırlatma Altyapısı
 
+![Project Banner](media/banner.png)
+
 ![TUA Astrohackathon](https://img.shields.io/badge/Etkinlik-TUA_Astrohackathon-0052cc?style=flat-square)
 ![Milli Uzay Programı](https://img.shields.io/badge/Hedef-Ay_Güney_Kutbu_Kolonisi-e60000?style=flat-square)
 ![Sürüm](https://img.shields.io/badge/Sürüm-v1.1.0-orange?style=flat-square)
