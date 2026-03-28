@@ -55,6 +55,25 @@ $$L = \frac{v_e^2}{2a}$$
 
 ---
 
+## 🗺️ Saha Kurulum Yol Haritası (Deployment Roadmap)
+
+### 🛰️ Faz 1: Yörünge Keşfi ve Otonom İniş (2027-2028)
+- Shackleton Krateri çevresinde yüksek çözünürlüklü termal haritalama.
+- İlk otonom TES prototipinin küçük ölçekli testi.
+
+### 🏗️ Faz 2: Robotik İnşa ve Sinterleme (2029-2030)
+- Otonom rover'ların güneş ışığı alan tepelerde regolit sinterleme ile fırlatma rayı temellerini atması.
+- Isı depolama bloklarının yerinde (in-situ) üretimi.
+
+### ⚡ Faz 3: Mikroşebeke Entegrasyonu (2031-2032)
+- Stirling motorları ve güneş yoğunlaştırıcıların kurulumu.
+- AI "Karanlık Dört Gün" yönetim sisteminin aktivasyonu.
+
+### ☄️ Faz 4: Ticari Kütle Fırlatma Operasyonları (2033+)
+- Ay yörüngesindeki istasyonlara düzenli su buzu ve mineral sevkiyatının başlaması.
+
+---
+
 ## 📂 Uygulama Modülleri (Source Modules)
 
 ### `mikrokarar_ai/grid_manager.py`
